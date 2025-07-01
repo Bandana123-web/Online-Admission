@@ -1,0 +1,8 @@
+props
+planecss
+how to use components
+
+dynamic component with props
+ 
+ git push
+ 
