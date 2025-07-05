@@ -16,12 +16,12 @@ const Navbar = (props) => {
               <Link to="/about">
                 <li>About</li>
               </Link>
-              <Link to="/apply">
-              <li>Apply</li>
-              </Link>
               <Link to="/contact">
                 <li>Contact</li>
               </Link>
+              <Link to="/login">
+              <li>Login</li>
+             </Link>
             </ul>
 
             <div className="left">
